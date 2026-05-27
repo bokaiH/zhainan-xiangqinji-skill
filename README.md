@@ -4,7 +4,8 @@
 
 > 「别急着问她到底喜不喜欢你，先把现场还原出来。」
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 ![Topic](https://img.shields.io/badge/Topic-%E7%9B%B8%E4%BA%B2%E5%A4%8D%E7%9B%98-green)
 
