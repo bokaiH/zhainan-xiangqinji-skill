@@ -5,7 +5,7 @@
 > 「别急着问她到底喜不喜欢你，先把现场还原出来。」
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)
-![Nuwa](https://img.shields.io/badge/Made%20with-%E5%A5%B3%E5%A7%A4.skill-orange)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 ![Topic](https://img.shields.io/badge/Topic-%E7%9B%B8%E4%BA%B2%E5%A4%8D%E7%9B%98-green)
 
 **宅男相亲记的相亲复盘与恋爱沟通分析框架。不是 PUA 话术，也不是情绪安慰，而是一个把聊天、约会、相亲现场拆开来看的可运行视角。**
