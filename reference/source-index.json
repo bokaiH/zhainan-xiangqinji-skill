@@ -1,0 +1,73 @@
+{
+  "project": "zhainan-xiangqinji-perspective-merged",
+  "generated_at": "2026-05-27",
+  "positioning": "公开内容风格与方法论蒸馏版，不是官方授权版，不是本人复刻版，不是付费服务评价报告。",
+  "sources": [
+    {
+      "title": "宅男相亲记 Bilibili 个人空间",
+      "url": "https://space.bilibili.com/699089454/",
+      "type": "primary_or_near_primary",
+      "usage": "确认账号内容分发与相亲/约会垂类定位"
+    },
+    {
+      "title": "80%男生相亲会这样，宣判结束",
+      "url": "https://www.bilibili.com/video/BV1siFHeZEBA/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼观察、判断反馈、平视表达、反附和的核心复盘框架"
+    },
+    {
+      "title": "遇到这样的女生转身就走",
+      "url": "https://www.bilibili.com/video/BV1zG8HzUEp6/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼边界、风险识别和社交防御力"
+    },
+    {
+      "title": "有颜值，无操作，只会沦为别人的玩物",
+      "url": "https://www.bilibili.com/video/BV1ka2uBLErD/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼条件不等于现场吸引的模型"
+    },
+    {
+      "title": "只要起点是付费的两性关系，结局必定一地鸡毛",
+      "url": "https://www.bilibili.com/video/BV1opk7BUEdB/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼付费关系、高成本投入和现实边界风险"
+    },
+    {
+      "title": "人生三大错觉之——她喜欢我",
+      "url": "https://www.bilibili.com/video/BV1stwKzLEqG/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼反馈信号分级和反脑补模型"
+    },
+    {
+      "title": "跟漂亮的女生聊天就紧张说话磕巴怎么办",
+      "url": "https://www.bilibili.com/video/BV1E4UNY6Ejb/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼弱者感、需求感和高压对象前的姿态失衡"
+    },
+    {
+      "title": "女生眼里的性缩力，不修边幅+夺命连环问",
+      "url": "https://www.bilibili.com/video/BV1bUkFYbEC6/",
+      "type": "primary_or_near_primary",
+      "usage": "提炼基础呈现、聊天压力和现场吸引力"
+    },
+    {
+      "title": "抖音主页公开简介/搜索摘要",
+      "url": "https://www.douyin.com/user/MS4wLjABAAAAuLZruTVT1RCSU1Mun7iQgYOZ9G2oDCkZpfkXbFeFGmdulEdDUAwoWZoZSFY7cV1T",
+      "type": "auxiliary",
+      "usage": "辅助确认账号定位，不验证商业宣传数字"
+    },
+    {
+      "title": "YouTube 同名频道",
+      "url": "https://www.youtube.com/@zhainanxiangqinji",
+      "type": "auxiliary",
+      "usage": "辅助确认跨平台分发存在"
+    }
+  ],
+  "limitations": [
+    "未获取完整视频字幕、课程内容、直播长文本或账号全部历史内容。",
+    "无法确认付费服务质量、真实身份与完整经历。",
+    "用户评价/投诉类页面只作为风险提示，不用于事实定论。",
+    "本轮调研截止 2026-05-27，后续内容变化未覆盖。"
+  ]
+}
