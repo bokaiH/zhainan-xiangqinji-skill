@@ -17,7 +17,7 @@
 ## 文件结构
 
 ```text
-zhainan_xiangqinji_merged_skill/
+zhainan-xiangqinji-skill/
 ├── README.md
 ├── SKILL.md
 └── reference/
@@ -32,6 +32,10 @@ zhainan_xiangqinji_merged_skill/
 ```
 
 ## 安装
+
+```bash
+npx skills add bokaiH/zhainan-xiangqinji-skill
+```
 
 本地使用时，可以把整个文件夹复制到你的 Skills 目录，或直接把 `SKILL.md` 作为自定义技能/系统提示使用。
 
